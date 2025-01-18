@@ -1,4 +1,7 @@
-<h2 align="left">Hi Coders !! My name is Akash Dutta and I'm a B.Tech CSE Student & from KOLKATA </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4997&pause=1000&color=DCCF34&background=DBFF6000&multiline=true&width=455&lines=Hi+%2CDear+Fellow++Coders+!!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4997&pause=1000&color=3BDC11&background=DBFF6000&multiline=true&width=455&lines=I'm+Akash+...%F0%9F%98%81%F0%9F%98%81)](https://git.io/typing-svg)
+
 
 ###
 
@@ -38,6 +41,7 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:techtonix49@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> 
   <a href="https://www.linkedin.com/in/akash-dutta-ad/">
 
@@ -48,7 +52,7 @@
 
 <br clear="both">
 
- WELCOME to AKASH's WORLD
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4997&pause=1000&color=3CDC1A&background=DBFF6000&multiline=true&width=455&lines=Welcome+to+AKASH's+WORLD...)](https://git.io/typing-svg)
 ###
 
 <picture>
