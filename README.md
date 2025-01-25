@@ -53,7 +53,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="70" alt="discord logo" />
   </a>
   <a href="mailto:techtonix49@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" height="70" alt="gmail logo" />
+    <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" height="70" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/akash-dutta-ad/">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" alt="linkedin logo" />
