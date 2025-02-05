@@ -46,6 +46,7 @@
 
 ###
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
+    <p style="font-size: 18px; font-weight: bold;">Just tap the below icon & Find Me at Social Handle...</p>
   <a href="https://www.instagram.com/akashdutta___">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" alt="instagram logo" />
   </a>
